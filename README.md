@@ -2,8 +2,9 @@
 Api utilizando o nodejs e MongoDB para cadastro de produtos e autenticação de usuário via token. Este aplicativo é implantado em Heroku.
 
   
-link no heroku https://node-str-leandro.herokuapp.com/
-rotas <h1>GET</h1>
+link no heroku https://node-str-leandro.herokuapp.com/<br/>
+<h1>Rotas</h1> 
+<h1>GET</h1>
 	products<br/>
   products/slug<br/>
   products/admin/id<br/>
